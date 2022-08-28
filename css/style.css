@@ -22,7 +22,7 @@ body {
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
   padding: 15px;
-  box-shadow: 0 0 15px hsla(217, 45%, 22%, 0.2);
+  box-shadow: 0 5px 15px hsla(217, 45%, 22%, 0.15);
 }
 .container .image img {
   width: 100%;
